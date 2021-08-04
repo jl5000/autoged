@@ -4,11 +4,10 @@
 # autoged <img src='man/figures/logo.png' align="right" height="138" />
 
 <!-- badges: start -->
-
 <!-- badges: end -->
 
 Automate the storage of facts from source documents in family tree
-GEDCOM files. Coming (not so) soon\!
+GEDCOM files. Coming (not so) soon!
 
 The package is part of the `gedcompendium` ecosystem of packages. This
 ecosystem enables the handling of `tidyged` objects (tibble
